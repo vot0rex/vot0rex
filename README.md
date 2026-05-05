@@ -13,12 +13,11 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HU7JI1m1eZ3qv5e/giphy.gif" width="500"/>
 </p>
 
 ---
 
-## 💀 SYSTEM TERMINAL 💀
+##  SYSTEM TERMINAL 
 ```bash id="hax01"
 root@void:~# whoami
 > v0TRE@xX // UNKNOWN ENTITY
