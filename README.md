@@ -1,59 +1,33 @@
-<h1 align="center">voTRE@xX</h1>
+<h1 align="center">🟢 v0TRE@xX 🟢</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Security+Researcher;Bug+Bounty+Hunter;Penetration+Tester" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=>>>+INITIALIZING+SYSTEM+OVERRIDE+...;>>>+BYPASSING+SECURITY+LAYERS+...;>>>+ACCESS+GRANTED+✔;>>>+WELCOME+TO+THE+GRID" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-Offensive%20Security-00ff00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Specialty-Web%20%2F%20API%20Security-00ff00?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Environment-Linux-00ff00?style=flat-square"/>
-</p>
-
----
-
-## 🧠 About Me
-Security researcher focused on discovering and analyzing real-world vulnerabilities in web applications and APIs.  
-Minimal mindset. Practical execution. Security through understanding systems deeply.
-
----
-
-## ⚙️ Skills
-- Web Application Security  
-- API Security Testing  
-- Network Recon & Analysis  
-- Vulnerability Research  
-- Basic to Intermediate Exploit Development  
-
----
-
-## 🛠️ Tech Stack
-<p align="center">
-<img src="https://skillicons.dev/icons?i=linux,git,c,cpp,python,javascript,nodejs,mongodb,mysql,postgresql" />
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=chartreuse-dark&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=chartreuse-dark&hide_border=true" />
-</p>
-
----
-
-## 📡 Contact
-<p align="center">
-  <img src="https://img.shields.io/badge/Discord-39b2-00ff00?style=flat-square&logo=discord&logoColor=black"/>
-</p>
-
-<p align="center">
-  <b>Discord ID:</b> 39b2
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff00?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/ACCESS-ROOT-00ff00?style=for-the-badge&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/TRACE-FAILED-ff0000?style=for-the-badge&labelColor=000000"/>
 </p>
 
 ---
 
 <p align="center">
-  <sub>Security is not about looking dangerous — it's about understanding systems.</sub>
+  <img src="https://media.giphy.com/media/l0HU7JI1m1eZ3qv5e/giphy.gif" width="500"/>
 </p>
+
+---
+
+## 💀 SYSTEM TERMINAL 💀
+```bash id="hax01"
+root@void:~# whoami
+> v0TRE@xX // UNKNOWN ENTITY
+
+root@void:~# scan target
+[+] firewall: BREACHED
+[+] antivirus: DISABLED
+[+] intrusion detection: SLEEPING
+
+root@void:~# status
+>>> SYSTEM UNDER CONTROL <<<
+>>> FULL ACCESS GRANTED <<<
